@@ -14,10 +14,5 @@ $(document).ready(function(){
     slidesToScroll: 1
   });
 
-// $('.your-class').click(function(){
-//   var rot = 10;
-//   console.log("clicked");
-//   $(this).css("transform", "scale(1.8)");
-// });
 
 });
