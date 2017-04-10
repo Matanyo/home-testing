@@ -1,0 +1,9 @@
+body {
+  background: yellow; }
+
+.slider-container {
+  max-width: 320px;
+  margin: 0 auto; }
+
+.slick-prev:before, .slick-next:before {
+  color: black !important; }
